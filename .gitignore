@@ -1,0 +1,11 @@
+# Compiled binaries
+*.out
+*.exe
+bin/
+
+# Object files
+*.o
+*.obj
+
+# Neovim swap files
+*.sw
