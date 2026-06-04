@@ -8,8 +8,8 @@
 
 - [x] `hello_world.cpp` — `cout`, variables, basic types
 - [x] `calculator.cpp` — two numbers + operator, integer division
-- [ ] `fizzbuzz.cpp` — 1–100, multiples of 3/5
-- [ ] `temp_converter.cpp` — °C / °F / K conversion functions
+- [x] `fizzbuzz.cpp` — 1–100, multiples of 3/5
+- [x] `temp_converter.cpp` — °C / °F / K conversion functions
 - [ ] `guessing_game.cpp` — `rand()` secret number, count guesses
 
 ---
