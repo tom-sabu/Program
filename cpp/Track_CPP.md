@@ -10,7 +10,7 @@
 - [x] `calculator.cpp` — two numbers + operator, integer division
 - [x] `fizzbuzz.cpp` — 1–100, multiples of 3/5
 - [x] `temp_converter.cpp` — °C / °F / K conversion functions
-- [ ] `guessing_game.cpp` — `rand()` secret number, count guesses
+- [x] `guessing_game.cpp` — `rand()` secret number, count guesses
 
 ---
 
