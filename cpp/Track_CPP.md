@@ -16,8 +16,8 @@
 
 ## Stage 2 · Arrays & strings → `arrays_strings/`
 
-- [ ] `array_stats.cpp` — min, max, mean, median of N integers
-- [ ] `reverse_string.cpp` — manual loop then `std::reverse`
+- [x] `array_stats.cpp` — min, max, mean, median of N integers
+- [x] `reverse_string.cpp` — manual loop then `std::reverse`
 - [ ] `word_frequency.cpp` — word count with `std::map`, sorted by frequency
 - [ ] `caesar_cipher.cpp` — encode/decode, upper and lower case
 - [ ] `matrix_multiply.cpp` — N×N matrix product
